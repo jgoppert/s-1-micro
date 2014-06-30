@@ -1,5 +1,11 @@
-// SR1 Arduino Controller
+// S-1 Arduino Controller
 //
+// Written for Arduino Micro
+//
+// Robotic Bird from: BirdKit.com
+// http://birdkit.com/robotics.s1.html
+//
+// RC Controller Code from:
 // rcarduino.blogspot.com
 //
 // A simple approach for reading three RC Channels using pin change interrupts

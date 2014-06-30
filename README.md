@@ -1,4 +1,5 @@
-#S-1 Robotic Bird Controller for Arduino Micro
+#S-1 Robotic Bird Controller for Arduino
 
-Author: James Goppert
-License: GPL v3 (see LICENSE.txt)
+ * Robot: S-1 Robotic Bird Kit: http://birdkit.com/robotics.s1.html
+ * Author: James Goppert
+ * License: GPL v3 (see LICENSE.txt)
